@@ -17,6 +17,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-PARK11)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :flashlight: Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-PARK11)](https://github.com/J-PARK11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-PARK11)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📬 Contacts
