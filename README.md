@@ -3,6 +3,9 @@
 🌱 Although I'm still a student, i'll be a prominent AI engineer someday! Definitely!    
 💬 If you have any questions about project or collaboration, please contact me through SNS.   
 
+
+
+
 ### 💡 Major Interest
 - Computer Vision 
 - Meta Learning 
