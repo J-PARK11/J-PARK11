@@ -15,3 +15,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bear1123)](https://solved.ac/bear1123)   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-PARK11)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📬 Contacts
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=Facebook&logocolor=white&link=https://www.facebook.com/profile.php?id=100005255884099)](https://www.facebook.com/profile.php?id=100005255884099)
