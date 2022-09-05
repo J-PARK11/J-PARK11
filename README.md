@@ -4,9 +4,9 @@
 
 
 ### 💡 Major Interest
-- Computer Vision : Image correction & classification using AE or GAN generative model.
-- Meta Learning : Unsupervised Meta-Learning based on feature extracture.
-- Outlier Detection : Outlier detection using air quality environment collected by hand.
+- Computer Vision : Image Classification & Latent Feature Engineering using AE | GAN generative model.
+- Meta Learning : Unsupervised Meta-Learning based on Feature Extracture.
+- Outlier Detection : Multi-Domain Outlier Detection Framework based on Deep Neural Network
 
 ### 📜 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) ![tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![keras](https://img.shields.io/badge/keras-c90000?style=flat&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat&logo=Folium&logoColor=white)
