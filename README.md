@@ -1,4 +1,4 @@
-👋 Hi, my name is Junhyuk Park, and I work at Hanyang Graduate School CVLab.    
+👋 Hi, my name is Junhyeok Park, and I work at Hanyang Graduate School CVLab.    
 🌐 I am mainly conducting research on Meta Learning methods derived from Computer Vision and AI services that are fused with various IoT services.    
 💼 And I am contracted to work at KT R&D AI lab after graduating from master's. Until that day comes, I will study with excitement and anticipation   
 💬 If you have any questions about project or collaboration, please contact me through SNS.   
