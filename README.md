@@ -1,10 +1,11 @@
-👋 Hi! My name is JunHyeok, AI & DS Researcher working at SSU AI DATA LAB.   
-🌱 Although I'm still a student, i'll be a prominent AI engineer someday! Definitely!    
+👋 Hi, my name is Junhyuk Park, and I work at Hanyang Graduate School CVLab.    
+🌐 I am mainly conducting research on Meta Learning methods derived from Computer Vision and AI services that are fused with various IoT services.    
+💼 And I am contracted to work at KT R&D AI lab after graduating from master's. Until that day comes, I will study with excitement and anticipation   
 💬 If you have any questions about project or collaboration, please contact me through SNS.   
 
 
 ### 💡 Major Interest
-- Computer Vision : Image Classification & Latent Feature Engineering using AE | GAN generative model.
+- Computer Vision : Image Processing & Latent Feature Engineering using AE | GAN generative model.
 - Meta Learning : Unsupervised Meta-Learning based on Feature Extracture.
 - Outlier Detection : Multi-Domain Outlier Detection Framework based on Deep Neural Network
 
