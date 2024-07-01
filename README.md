@@ -10,5 +10,5 @@ If you have any questions about project or collaboration, please contact me thro
 - Outlier Detection : Multi-Domain Outlier Detection Framework based on Deep Neural Network
 
 ### 🏕️ Career
-- Ahn Jinwoo & Park Junhyeok et al, Solution for SMART-101 Challenge of CVPR Multi-modal Algorithmic Reasoning Task 2024, CVPR Workship 2024, 1st Prize. https://arxiv.org/pdf/2406.05963.
-- Park, J., Seo, Y. & Cho, J. Unsupervised outlier detection for time-series data of indoor air quality using LSTM autoencoder with ensemble method. J Big Data 10, 66 (2023). https://doi.org/10.1186/s40537-023-00746-z, impact factor: 10.835
+- Jinwoo Ahn & Junhyeok Park et al, Solution for SMART-101 Challenge of CVPR Multi-modal Algorithmic Reasoning Task 2024, CVPR Workship 2024, 1st Prize. https://arxiv.org/pdf/2406.05963.
+- Junhyeok Park et al, Unsupervised outlier detection for time-series data of indoor air quality using LSTM autoencoder with ensemble method, J Big Data 10, 66 (2023), impact factor: 10.835, https://doi.org/10.1186/s40537-023-00746-z.
