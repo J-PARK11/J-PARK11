@@ -1,7 +1,7 @@
 ### 🌱 Introduce
 Hi, This is Junhyeok Park, I work at the Hanyang Graduate School Machine Learning Lab.    
 I am interested in multimodal large language models and complex video understanding.
-I am in a KT Master's Course funded by KT Corporation.
+I am in a KT Master's Course funded by KT Corporation.       
 If you have any questions or want to know more about my career, project or collaboration, please contact me through e-mail or sns.      
 
 ### 💡 Major Interest
